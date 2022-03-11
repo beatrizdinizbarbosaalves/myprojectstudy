@@ -1,0 +1,16 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.dev.json
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache
