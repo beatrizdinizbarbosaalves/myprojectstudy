@@ -14,3 +14,19 @@ C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myp
 C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
 C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
 C:\Users\fabio\OneDrive\Área de Trabalho\USUÁRIOS\BEATRIZ\repositories\git\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.exe
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.deps.json
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.json
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.dev.json
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.dll
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\ref\MyFirstProject.dll
+D:\Beatriz\myprojectstudy\src\MyFirstProject\bin\Debug\net5.0\MyFirstProject.pdb
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.AssemblyReference.cache
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfoInputs.cache
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfo.cs
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.dll
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
+D:\Beatriz\myprojectstudy\src\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache
