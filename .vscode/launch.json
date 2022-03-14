@@ -26,8 +26,7 @@
             "WARNING16": "button at the bottom of this file.",
             "WARNING17": "*********************************************************************************",
             "preLaunchTask": "build",
-            
-            "program": "C:/Users/fabio/OneDrive/Área de Trabalho/USUÁRIOS/BEATRIZ/repositories/git/myprojectstudy/src/MyFirstProject/bin/Debug/net5.0/MyFirstProject.dll",
+            "program": "${workspaceFolder}/src/MyFirstProject/bin/Debug/net5.0/MyFirstProject.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
