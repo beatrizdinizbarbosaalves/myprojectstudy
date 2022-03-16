@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/MyFirstProject/bin/Debug/net5.0/MyFirstProject.dll",
+            "program": "${workspaceFolder}/src/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/MyFirstProject",
+            "cwd": "${workspaceFolder}/src/PrimitiveTypes",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
