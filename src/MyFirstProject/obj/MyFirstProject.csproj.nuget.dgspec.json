@@ -1,26 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\USUÁRIOS\\BEATRIZ\\repositories\\git\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj": {}
+    "D:\\Beatriz\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\USUÁRIOS\\BEATRIZ\\repositories\\git\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj": {
+    "D:\\Beatriz\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\USUÁRIOS\\BEATRIZ\\repositories\\git\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj",
+        "projectUniqueName": "D:\\Beatriz\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj",
         "projectName": "MyFirstProject",
-        "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\USUÁRIOS\\BEATRIZ\\repositories\\git\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\USUÁRIOS\\BEATRIZ\\repositories\\git\\myprojectstudy\\src\\MyFirstProject\\obj\\",
+        "projectPath": "D:\\Beatriz\\myprojectstudy\\src\\MyFirstProject\\MyFirstProject.csproj",
+        "packagesPath": "C:\\Users\\fralves\\.nuget\\packages\\",
+        "outputPath": "D:\\Beatriz\\myprojectstudy\\src\\MyFirstProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fralves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\LocalNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.viajanet.com.br/tfs/ViajaNet/_packaging/Viajanet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
