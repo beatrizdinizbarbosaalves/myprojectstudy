@@ -12,12 +12,11 @@
 <<<<<<< HEAD
 =======
             // If you have changed target frameworks, make sure to update the program path.
->>>>>>> 7dab7fe2d090b43bc7f5cb999927d37c5ee3fa47
             "program": "${workspaceFolder}/src/MyFirstProject/bin/Debug/net5.0/MyFirstProject.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/MyFirstProject",
+            "cwd": "${workspaceFolder}/src/PrimitiveTypes",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
